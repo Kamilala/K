@@ -1,5 +1,8 @@
 package doCwiczenia;
 
+
+
+
 public class test {
     public static void main(String[] args) {
         int[] mat = new int[]{4, 5, 6, 6};
