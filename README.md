@@ -1,7 +1,9 @@
 package doCwiczenia;
 
 public class test {
+
     public static void main(String[] args) {
+    
         int[] mat = new int[]{4, 5, 6, 6};
         int[] pl = new int[]{3, 2, 5, 4, 3, 5, 4};
         int[] ang = new int[]{3, 4, 5, 6};
